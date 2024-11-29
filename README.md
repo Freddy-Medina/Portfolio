@@ -1,7 +1,7 @@
 # Estudiante de Inteligencia Artifical
 
 
-##Educación
+## Educación
 
 ### Escuela:
 - Colegio Integral Para Niños (CIPANI).
