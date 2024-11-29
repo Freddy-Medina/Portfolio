@@ -7,11 +7,11 @@ Escuela:
 Universidad:
 - Facultad de Ingeniería de la Uiversidad Nacional de Asunción
 
-### Habilidades
-# Técnicas:
+# Habilidades
+## Técnicas:
 - Programación: C++, Java, Python, Matlab.
 - Herramientas: Google Collab, CodeBlocks.
-# Blandas:
+## Blandas:
 - Comunicación Efectiva
 - Trabajo en Equipo
 
