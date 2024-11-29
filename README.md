@@ -12,11 +12,11 @@
 
 ## Habilidades
 
-### Técnicas
+### Técnica
 - Programación: C++, Java, Python, Matlab.
 - Herramientas: Google Collab, CodeBlocks.
   
-### Blandas
+### Blanda
 - Comunicación Efectiva
 - Trabajo en Equipo
 
